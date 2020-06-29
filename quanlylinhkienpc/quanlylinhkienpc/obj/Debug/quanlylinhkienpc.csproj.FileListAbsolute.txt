@@ -1,0 +1,77 @@
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe.config
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.pdb
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fbanra.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHienthi.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHuongdannhap.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FLichsuMuaban.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Flogin.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.fmuaban.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FNhaplinhkien.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fnhapvao.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FThongke.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FtkAdmin.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FTkNhanvien.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Properties.Resources.resources
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csproj.GenerateResource.Cache
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.exe
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.pdb
+C:\Users\namdaik\Desktop\Nhóm 11 - Lớp Tin 9A4 - Đề tài Quản lý linh kiện máy tính2\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csprojResolveAssemblyReference.cache
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe.config
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.exe
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.pdb
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.pdb
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fbanra.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHienthi.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHuongdannhap.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FLichsuMuaban.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Flogin.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.fmuaban.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FNhaplinhkien.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fnhapvao.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FThongke.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FtkAdmin.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FTkNhanvien.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Properties.Resources.resources
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csproj.GenerateResource.Cache
+C:\Users\namdaik\Desktop\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csprojResolveAssemblyReference.cache
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe.config
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.pdb
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csprojAssemblyReference.cache
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fbanra.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHienthi.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHuongdannhap.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FLichsuMuaban.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Flogin.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.fmuaban.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FNhaplinhkien.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fnhapvao.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FThongke.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FtkAdmin.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FTkNhanvien.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Properties.Resources.resources
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csproj.GenerateResource.cache
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csproj.CoreCompileInputs.cache
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.exe
+C:\Users\ONE\Desktop\Nhom2_quanlylinhkien\Nhom11-quanlylinhkien\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.pdb
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe.config
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.exe
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.pdb
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.exe
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\bin\Debug\quanlylinhkienpc.pdb
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fbanra.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHienthi.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FHuongdannhap.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FLichsuMuaban.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Flogin.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.fmuaban.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FNhaplinhkien.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Fnhapvao.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FThongke.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FtkAdmin.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.FTkNhanvien.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Compressed\QLlinh kien may tinh\quanlylinhkienpc\quanlylinhkienpc\obj\Debug\quanlylinhkienpc.csprojResolveAssemblyReference.cache

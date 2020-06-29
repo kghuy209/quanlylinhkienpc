@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD55FFF9-BC76-4B6A-9CDD-13A0F2E88F0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>quanlylinhkienpc</RootNamespace>
+    <AssemblyName>quanlylinhkienpc</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs" />
+    <Compile Include="CL_Loaihienthi.cs" />
+    <Compile Include="CL_muaban.cs" />
+    <Compile Include="CL_XuatExcel.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="Dataquery.cs" />
+    <Compile Include="Fbanra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fbanra.Designer.cs">
+      <DependentUpon>Fbanra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FHienthi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHienthi.Designer.cs">
+      <DependentUpon>FHienthi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FHuongdannhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHuongdannhap.Designer.cs">
+      <DependentUpon>FHuongdannhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLichsuMuaban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLichsuMuaban.Designer.cs">
+      <DependentUpon>FLichsuMuaban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flogin.Designer.cs">
+      <DependentUpon>Flogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMuaban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMuaban.Designer.cs">
+      <DependentUpon>FMuaban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FNhaplinhkien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FNhaplinhkien.Designer.cs">
+      <DependentUpon>FNhaplinhkien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fnhapvao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fnhapvao.Designer.cs">
+      <DependentUpon>Fnhapvao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FThongke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FThongke.Designer.cs">
+      <DependentUpon>FThongke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FtkAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FtkAdmin.Designer.cs">
+      <DependentUpon>FtkAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FTkNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FTkNhanvien.Designer.cs">
+      <DependentUpon>FTkNhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Fbanra.resx">
+      <DependentUpon>Fbanra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHienthi.resx">
+      <DependentUpon>FHienthi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHuongdannhap.resx">
+      <DependentUpon>FHuongdannhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLichsuMuaban.resx">
+      <DependentUpon>FLichsuMuaban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flogin.resx">
+      <DependentUpon>Flogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMuaban.resx">
+      <DependentUpon>FMuaban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FNhaplinhkien.resx">
+      <DependentUpon>FNhaplinhkien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fnhapvao.resx">
+      <DependentUpon>Fnhapvao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FThongke.resx">
+      <DependentUpon>FThongke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FtkAdmin.resx">
+      <DependentUpon>FtkAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FTkNhanvien.resx">
+      <DependentUpon>FTkNhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linh-kien-dien-tu-va-thiet-bi-do-linh-kien_s2201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blockchain-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mankey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blockchain-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buy-button-keyboard-commerce-ss-1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buy-and-sell-agreement-calypso-accounting-risk-management.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10365288-Buy-button-on-the-keyboard-Toned-Image--Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoc-nganh-cong-nghe-ky-thuat-dien-tu-truyen-thong-co-lam-viec-duoc-o-nuoc-ngoai.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sell-keyboard-button-by-gotcredit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sell-keyboard-button-by-gotcredit1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment_rates2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-1715001_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupe-160478_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PN3aAiKN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41506474-the-magical-form-of-blue-smoke-abstract-blue-background-Stock-Photo.jpg" />
+    <None Include="Resources\download.jpg" />
+    <Content Include="Resources\images.jpg" />
+    <Content Include="Resources\key.png" />
+    <Content Include="Resources\LogoC500.png" />
+    <None Include="Resources\main-background1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
